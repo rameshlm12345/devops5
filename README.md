@@ -1,4 +1,4 @@
 # devops5
-## created a file
+## created a repository for expalining about git
 
-adding a line
+adding a line in readme file
